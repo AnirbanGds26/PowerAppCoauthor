@@ -276,7 +276,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Canvas",
-      "ParentIndex": 6,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1046,7 +1046,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "GalleryTabs",
-      "ParentIndex": 4,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1797,7 +1797,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "%TemplatePhoneLblAppName.ID%",
       "Name": "lblAppNameHeader",
-      "ParentIndex": 3,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3335,7 +3335,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "rectSeparator",
-      "ParentIndex": 5,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
