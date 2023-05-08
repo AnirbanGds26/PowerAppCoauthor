@@ -3,33 +3,33 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Canvas": 11,
-    "DataCardAllCloseDtCalc": 14,
-    "DataCardCloseSchedules": 16,
-    "DataCardDeals": 12,
-    "DataCardIntCalc": 18,
-    "DataCardSummary": 20,
-    "GalleryTabs": 7,
-    "galleryTemplate1": 8,
+    "Canvas": 15,
+    "DataCardAllCloseDtCalc": 18,
+    "DataCardCloseSchedules": 20,
+    "DataCardDeals": 16,
+    "DataCardIntCalc": 22,
+    "DataCardSummary": 24,
+    "GalleryTabs": 11,
+    "galleryTemplate1": 12,
     "Host": 3,
-    "lblAllCloseDtCalc": 15,
-    "lblAppNameHeader": 6,
-    "lblCloseSchedules": 17,
-    "lblDealDeatils": 13,
-    "lblInterestCalc": 19,
-    "lblSummary": 21,
-    "RectHeader": 5,
-    "rectSeparator": 10,
-    "Screen2": 4,
-    "Screen3": 22,
-    "TabName": 9,
-    "TextInput_1": 23,
-    "TextInput_2": 24,
-    "TextInput_3": 25
+    "lblAllCloseDtCalc": 19,
+    "lblAppNameHeader": 10,
+    "lblCloseSchedules": 21,
+    "lblDealDeatils": 17,
+    "lblInterestCalc": 23,
+    "lblSummary": 25,
+    "RectHeader": 9,
+    "rectSeparator": 14,
+    "Screen2": 8,
+    "Screen3": 4,
+    "TabName": 13,
+    "TextInput_1": 5,
+    "TextInput_2": 6,
+    "TextInput_3": 7
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/08/2023 07:42:12",
+  "HeaderLastSavedDateTimeUTC": "05/08/2023 08:01:44",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -45,11 +45,11 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "fluidGrid": 3,
-    "gallery": 2,
-    "label": 1,
-    "rectangle": 0,
-    "text": 4
+    "fluidGrid": 4,
+    "gallery": 3,
+    "label": 2,
+    "rectangle": 1,
+    "text": 0
   },
   "OverridablePropertiesEntry": {
     "App": {},
@@ -109,7 +109,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1346451,
+    "AnalysisLoadTime": 0.1236007,
     "ControlCount": {
       "dataCard": 5,
       "fluidGrid": 1,
@@ -120,7 +120,7 @@
       "screen": 2,
       "text": 3
     },
-    "DeserializationLoadTime": 0.4162455
+    "DeserializationLoadTime": 1.0087754
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
