@@ -193,3 +193,17 @@
             Width: =Parent.TemplateWidth - 3
             ZIndex: =1
 
+    Button1 As button:
+        OnSelect: =Notify("Button Clicked",NotificationType.Information,2000)
+        Text: ="Button"
+        X: =78
+        Y: =423
+        ZIndex: =6
+
+    Label1 As label:
+        Text: =User().FullName
+        Width: =626
+        X: =288
+        Y: =423
+        ZIndex: =7
+
