@@ -1,0 +1,14 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Align: =Align.Center
+        Color: =RGBA(255, 0, 0, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =464
+        Size: =50
+        Text: ="Test Git Page 1"
+        Width: =946
+        X: =183
+        Y: =150
+        ZIndex: =1
+
