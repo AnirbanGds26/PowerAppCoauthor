@@ -6,7 +6,8 @@ Screen2 As screen:
         FontWeight: =FontWeight.Bold
         Height: =464
         Size: =50
-        Text: ="Test Git Page 2"
+        Text: |-
+            ="Test Git Page #2"
         Width: =946
         X: =183
         Y: =150
